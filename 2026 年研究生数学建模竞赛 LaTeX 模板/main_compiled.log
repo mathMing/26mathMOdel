@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.18)  25 SEP 2026 10:32
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.18)  25 SEP 2026 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1879,13 +1879,11 @@ Package fontspec Info:
  (sections/abstract.tex [1
 
 ] [2]
-[3]) [4] (main_compiled.toc [5
-
-] [6])
+[3]) (main_compiled.toc [4] [5])
 \tf@toc=\write6
 \openout6 = `main_compiled.toc'.
 
- [7] (sections/sec1_intro.tex
+ [6] (sections/sec1_intro.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -1926,7 +1924,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 16.
 
-[8
+[7
 
 ]
 
@@ -1969,78 +1967,78 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 26.
 
+[8]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 56.
+
 [9]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 39.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 39.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 42.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 42.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 42.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 42.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 56.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 56.
-
-[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2184,7 +2182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\TU/SimSun(1)/b/n/10.53937 在 独 立 测 试 集 突 破
  []
 
-[11]
+[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2197,7 +2195,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: figures/fig11_acc3_evolution_roadmap.png Graphic file (type bmp)
 <figures/fig11_acc3_evolution_roadmap.png>
-) [12] (sections/sec2_eda_symbols.tex
+) [11] (sections/sec2_eda_symbols.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2223,7 +2221,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []|\TU/SimSun(1)/b/n/10.53937 中 位 数
  []
 
-[13
+[12
 
 ]
 
@@ -2283,32 +2281,32 @@ Overfull \hbox (12.83388pt too wide) in alignment at lines 76--76
 [][][][][] 
  []
 
+[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 85.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 85.
+
 [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 85.
+(hyperref)                removed on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 85.
+(hyperref)                removed on input line 98.
 
 [15]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 98.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 98.
-
-[16]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 124.
 
 
@@ -2316,7 +2314,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 124.
 
-) [17] (sections/sec3_problem1.tex
+) [16] (sections/sec3_problem1.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2386,7 +2384,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 32.
 
-[18
+[17
 
 ]
 
@@ -2421,18 +2419,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 66.
+[18]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 94.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 94.
+
 [19]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 94.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 94.
-
-[20]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2498,7 +2496,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 141.
 
-[21]) [22] (sections/sec4_problem2.tex
+[20]) [21] (sections/sec4_problem2.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2539,7 +2537,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 24.
 
-[23
+[22
 
 ]
 
@@ -2609,7 +2607,7 @@ Overfull \hbox (9.78783pt too wide) in paragraph at lines 68--69
 []; []\OT1/cmr/m/n/12.045 ])$\TU/SimSun(2)/m/n/12.045 。|
  []
 
-[24]
+[23]
 File: figures/fig10_global_modality_gate_distribution.png Graphic file (type bm
 p)
 <figures/fig10_global_modality_gate_distribution.png>
@@ -2644,99 +2642,99 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 110.
 
+[24]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 130.
+
 [25]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 123.
+(hyperref)                removed on input line 147.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 123.
+(hyperref)                removed on input line 147.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 123.
+(hyperref)                removed on input line 147.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 123.
+(hyperref)                removed on input line 147.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 130.
+(hyperref)                removed on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 130.
+(hyperref)                removed on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 130.
+(hyperref)                removed on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 130.
+(hyperref)                removed on input line 157.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 164.
 
 [26]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 164.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 164.
-
-[27]
 File: figures/fig8_validation_confusion_matrix.png Graphic file (type bmp)
 <figures/fig8_validation_confusion_matrix.png>
 
@@ -2744,58 +2742,58 @@ Overfull \hbox (66.26065pt too wide) in alignment at lines 189--189
 [][][][][] 
  []
 
+[27]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 215.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 215.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 215.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 215.
+
 [28]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 199.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 202.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 202.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 202.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 202.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 215.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 215.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 215.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 215.
-
-[29]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -2994,14 +2992,14 @@ Overfull \hbox (113.09349pt too wide) in alignment at lines 339--339
 [][][][][][][] 
  []
 
-[30] [31]
+[29] [30]
 File: figures/fig1_missing_modality_type.png Graphic file (type bmp)
 <figures/fig1_missing_modality_type.png>
 File: figures/fig2_missing_position.png Graphic file (type bmp)
 <figures/fig2_missing_position.png>
 File: figures/fig3_missing_duration_decay.png Graphic file (type bmp)
 <figures/fig3_missing_duration_decay.png>
- [32]
+ [31]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3040,7 +3038,7 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
-[33]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 377--377
 []|\TU/SimSun(1)/b/n/10.53937 门
  []
@@ -3349,7 +3347,7 @@ Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
 
 LaTeX Warning: Float too large for page by 445.89076pt on input line 378.
 
-) [34] [35] (sections/sec5_problem3.tex
+) [33] [34] (sections/sec5_problem3.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3410,7 +3408,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 33.
 
-[36
+[35
 
 ]
 
@@ -3435,7 +3433,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 60.
 
-[37]
+[36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3498,7 +3496,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 84.
 
-[38]
+[37]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3575,7 +3573,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 127.
 
-[39]
+[38]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3591,7 +3589,7 @@ Underfull \hbox (badness 3568) in paragraph at lines 168--168
 []|\TU/TimesNewRoman(0)/m/n/10.53937 0.96s - 2.41s, enthusiastically
  []
 
-) [40] [41] (sections/sec6_eval_generalization.tex
+) [39] [40] (sections/sec6_eval_generalization.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3642,9 +3640,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 22.
 
-[42
+[41
 
-] [43]
+] [42]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3757,14 +3755,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
 (mdframed)              on input line 87.
-[44
+[43
 
 ]
 Overfull \hbox (12.60403pt too wide) in alignment at lines 109--109
 [][][][][] 
  []
 
-[45] [46]
+[44] [45]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3785,9 +3783,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 116.
 
-[47
+[46
 
-] [48]
+] [47]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3858,7 +3856,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 188.
 
-[49
+[48
 
 ]
 
@@ -3931,7 +3929,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 212.
 
-[50
+[49
 
 ]
 
@@ -3962,9 +3960,9 @@ Overfull \hbox (2.74425pt too wide) in paragraph at lines 242--242
 
 LaTeX Warning: Float too large for page by 89.54785pt on input line 243.
 
-) [51
+) [50
 
-] [52] (main_compiled.bbl) [53
+] [51] (main_compiled.bbl) [52
 
 ] (main_compiled.aux)
  ***********
@@ -3983,4 +3981,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  112i,20n,127p,535b,1363s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main_compiled.pdf (54 pages).
+Output written on main_compiled.pdf (53 pages).
