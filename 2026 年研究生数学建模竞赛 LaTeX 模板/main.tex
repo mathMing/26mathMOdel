@@ -1,0 +1,73 @@
+% !Mode:: "TeX:UTF-8"
+%!TEX program  = xelatex
+
+\documentclass[fontset=windows]{gmcmthesis}
+
+\hypersetup{hidelinks}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{subfig}
+\usepackage{siunitx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{colortbl}
+\usepackage{amsmath,amssymb,amsfonts,bm}
+
+% 颜色定义
+\definecolor{color1}{rgb}{0.78,0.88,0.99}
+\definecolor{color2}{rgb}{0.36,0.62,0.84}
+\definecolor{color3}{rgb}{0.88,0.92,0.96}
+\definecolor{color4}{rgb}{0.96,0.97,0.98}
+\definecolor{winered}{rgb}{0.7,0.1,0.1}
+
+% 算法宏包
+\usepackage[noend]{algpseudocode}
+\usepackage{algorithmicx,algorithm}
+\floatname{algorithm}{算法}
+\renewcommand{\algorithmicrequire}{\textbf{输入:}}
+\renewcommand{\algorithmicensure}{\textbf{输出:}}
+
+% 建模论文题目与参赛元数据
+\title{复杂场景下多模态情感预测的数学建模与算法设计}
+\baominghao{\hspace{6em} 20260900001}
+\schoolname{\hspace{5.8em} 中国研究生数学建模竞赛}
+\membera{\hspace{6em} 李敏}
+\memberb{\hspace{6em} 段明达}
+\memberc{\hspace{6em} 杨凤东}
+
+\begin{document}
+
+\maketitle
+
+% 目录页
+\maketoc
+\clearpage
+
+\input{sections/abstract.tex}
+
+\pagestyle{plain}
+\clearpage
+
+\input{sections/sec1_intro.tex}
+\clearpage
+
+\input{sections/sec2_eda_symbols.tex}
+\clearpage
+
+\input{sections/sec3_problem1.tex}
+\clearpage
+
+\input{sections/sec4_problem2.tex}
+\clearpage
+
+\input{sections/sec5_problem3.tex}
+\clearpage
+
+\input{sections/sec6_eval_generalization.tex}
+\clearpage
+
+\bibliographystyle{gmcm}
+\bibliography{reference}
+
+\end{document}

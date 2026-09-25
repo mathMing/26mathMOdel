@@ -1,0 +1,73 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[{Zadeh et~al.(2018)Zadeh, Liang, Poria, Cambria, and
+  Morency}]{zadeh2018multimodal}
+Zadeh~A~B, Liang~P~P, Poria~S, et~al.,
+\newblock Multimodal language analysis in the wild: {CMU-MOSEI} dataset and
+  interpretable dynamic fusion,
+\newblock Proceedings of the 56th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers),
+\newblock 2236-2246, 2018.
+
+\bibitem[{Zhang et~al.(2024)Zhang, Wang, Liu, and Chen}]{htrn2024}
+Zhang~Y, Wang~L, Liu~H, et~al.,
+\newblock Hierarchical Text-guided Refinement Network for Multimodal Sentiment
+  Analysis,
+\newblock IEEE Transactions on Affective Computing, 15\penalty0 (2):\penalty0
+  512-525, 2024.
+
+\bibitem[{Zadeh et~al.(2017)Zadeh, Chen, Poria, Cambria, and
+  Morency}]{zadeh2017tensor}
+Zadeh~A, Chen~M, Poria~S, et~al.,
+\newblock Tensor fusion network for multimodal sentiment analysis,
+\newblock Proceedings of the 2017 Conference on Empirical Methods in Natural
+  Language Processing,
+\newblock 1103-1114, 2017.
+
+\bibitem[{Tsai et~al.(2019)Tsai, Bai, Liang, Kolter, Morency, and
+  Salakhutdinov}]{tsai2019multimodal}
+Tsai~Y~H~H, Bai~S, Liang~P~P, et~al.,
+\newblock Multimodal transformer for unaligned multimodal language sequences,
+\newblock Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers),
+\newblock 6558-6569, 2019.
+
+\bibitem[{Hazarika et~al.(2020)Hazarika, Zimmermann, and
+  Poria}]{hazarika2020misa}
+Hazarika~D, Zimmermann~R, Poria~S,
+\newblock {MISA}: Modality-invariant and-specific representations for
+  multimodal sentiment analysis,
+\newblock Proceedings of the 28th ACM International Conference on Multimedia,
+\newblock 1122-1131, 2020.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and
+  Toutanova}]{devlin2018bert}
+Devlin~J, Chang~M~W, Lee~K, et~al.,
+\newblock {BERT}: Pre-training of deep bidirectional transformers for language
+  understanding,
+\newblock Proceedings of the 2019 Conference of the North American Chapter of
+  the Association for Computational Linguistics: Human Language Technologies,
+\newblock 4171-4186, 2019.
+
+\bibitem[{Berndt et~al.(1994)Berndt and Clifford}]{berndt1994using}
+Berndt~D~J, Clifford~J,
+\newblock Using dynamic time warping to find patterns in time series,
+\newblock KDD Workshop, 10\penalty0 (16):\penalty0 359-370, 1994.
+
+\bibitem[{Geurts et~al.(2006)Geurts, Ernst, and Wehenkel}]{geurts2006extremely}
+Geurts~P, Ernst~D, Wehenkel~L,
+\newblock Extremely randomized trees,
+\newblock Machine Learning, 63\penalty0 (1):\penalty0 3-42, 2006.
+
+\bibitem[{Sundararajan et~al.(2017)Sundararajan, Taly, and
+  Yan}]{sundararajan2017axiomatic}
+Sundararajan~M, Taly~A, Yan~Q,
+\newblock Axiomatic attribution for deep networks,
+\newblock International Conference on Machine Learning,
+\newblock 3319-3328, 2017.
+
+\end{thebibliography}
