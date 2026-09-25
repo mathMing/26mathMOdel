@@ -124,13 +124,15 @@
 \renewcommand\arraystretch{1.3}
 \caption{对齐前后多模态互信息 (MI) 与皮尔逊相关系数对比检验表}
 \label{tab:mi_eval}
-\begin{tabularx}{0.95\textwidth}{|c|c|c|c|c|}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|}
 \hline
 \textbf{评估模态对} & \textbf{对齐前互信息 (MI)} & \textbf{对齐后互信息 (MI)} & \textbf{互信息增益率 (\%)} & \textbf{皮尔逊相关系数 $r$} \\ \hline
 文本 - 语音 (Text-Audio) & 0.3812 & \textbf{0.5124} & \textbf{+34.42\%} & $0.412 \to \mathbf{0.638}$ \\ \hline
 文本 - 视觉 (Text-Vision) & 0.3420 & \textbf{0.4851} & \textbf{+41.84\%} & $0.365 \to \mathbf{0.592}$ \\ \hline
 语音 - 视觉 (Audio-Vision) & 0.2154 & \textbf{0.3789} & \textbf{+75.91\%} & $0.208 \to \mathbf{0.484}$ \\ \hline
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 表 \ref{tab:mi_eval} 的数据充分证明：对齐算子消除了跨模态语义的时间错位，模态间互信息普遍出现 30\%$\sim$70\% 的巨大跃升，特别是声画之间的协同互信息增益达到惊人的 $+75.91\%$。

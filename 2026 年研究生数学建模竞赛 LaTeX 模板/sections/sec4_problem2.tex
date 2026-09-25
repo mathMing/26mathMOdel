@@ -179,7 +179,7 @@ q_i[c] = \frac{\exp\left( -\frac{(y_{r,i} - \mu_c)^2}{2 \sigma_{\text{ldl}}^2} \
 \renewcommand\arraystretch{1.3}
 \caption{DRM-Net 在独立测试集各类别上的精确率、召回率与 F1 指标诊断分析}
 \label{tab:error_diag}
-\begin{tabularx}{0.9\textwidth}{|c|c|c|c|c|}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}p{0.19\textwidth}|>{\centering\arraybackslash}p{0.17\textwidth}|c|c|c|}
 \hline
 \textbf{类别名称} & \textbf{真实样本数 (Support)} & \textbf{精确率 (Precision)} & \textbf{召回率 (Recall)} & \textbf{F1 分数 (F1-Score)} \\ \hline
 负向情感 (Negative) & 207 & 69.1\% & 69.1\% & 69.1\% \\ \hline
@@ -247,7 +247,8 @@ P_{\text{DTH}}(c \mid \Phi_{\text{meta}}) = \frac{1}{3} \sum_{k=1}^3 P_{\text{ET
 \renewcommand\arraystretch{1.3}
 \caption{CMU-MOSEI 独立评测测试集 ($N=727$) 权威学术对比与突破 SOTA 认证总表}
 \label{tab:sota_full}
-\begin{tabularx}{\textwidth}{|l|c|c|c|c|c|X|}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|c|c|c|c|c|p{0.18\textwidth}|}
 \hline
 \textbf{模型类别 / 架构方案} & \textbf{三分类 Acc-3} & \textbf{二分类 Acc-2} & \textbf{Macro-F1} & \textbf{MAE} & \textbf{Pearson $r$} & \textbf{答对样本数 ($N=727$)} \\ \hline
 初始基线 (Baseline) & 60.30\% & 79.81\% & 59.79\% & 0.6362 & 0.6447 & 438 / 727 \\ \hline
@@ -259,7 +260,8 @@ C2S-Net (本文级联解耦架构) & 67.40\% & 81.25\% & 62.26\% & 0.6380 & 0.65
 \hline
 \textit{学界最高纪录 (HTRN SOTA, 2024)\cite{htrn2024}} & \textit{68.71\%} & \textit{83.20\%} & \textit{--} & \textit{--} & \textit{--} & \textit{499.5 / 727} \\ \hline
 \textbf{DTH-Champion (本文终极集成)} & \textbf{69.05\%} & \textbf{81.98\%} & \textbf{63.16\%} & \textbf{0.6322} & \textbf{0.6634} & \textbf{502 / 727} (\textbf{+0.34\%}) \\ \hline
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 \textbf{历史性突破的严格数理认证}：
@@ -309,7 +311,8 @@ DTH-Champion 突破 SOTA 后的最终测试集混淆矩阵如表 \ref{tab:champi
 \renewcommand\arraystretch{1.25}
 \caption{全套 18 组模态局部随机缺失情境消融实验评测数据汇总表}
 \label{tab:ablation_all}
-\begin{tabularx}{\textwidth}{|c|l|c|c|c|c|c|}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|l|c|c|c|c|c|}
 \hline
 \textbf{消融实验组} & \textbf{缺失工况设定说明} & \textbf{三分类 Acc-3} & \textbf{二分类 Acc-2} & \textbf{Macro-F1} & \textbf{MAE} & \textbf{衰减幅度 $\Delta$Acc} \\ \hline
 \textbf{完备工况 (基准)} & 三模态信号完整无缺失 & \textbf{69.05\%} & \textbf{81.98\%} & \textbf{63.16\%} & \textbf{0.6322} & \textbf{0.00\% (最优)} \\ \hline
@@ -336,7 +339,8 @@ DTH-Champion 突破 SOTA 后的最终测试集混淆矩阵如表 \ref{tab:champi
 & 缺失比例 $\rho = 50\%$ & 65.89\% & 80.05\% & 61.10\% & 0.6490 & -3.16\% \\ \cline{2-7}
 & 缺失比例 $\rho = 60\%$ & 64.24\% & 79.23\% & 59.85\% & 0.6580 & -4.81\% \\ \cline{2-7}
 & \textbf{极限缺失 $\rho = 70\%$} & \textbf{62.45\%} & \textbf{78.13\%} & \textbf{58.70\%} & \textbf{0.6690} & \textbf{-6.60\%} \\ \hline
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 \begin{figure}[htp!]
@@ -365,7 +369,8 @@ DTH-Champion 突破 SOTA 后的最终测试集混淆矩阵如表 \ref{tab:champi
 \renewcommand\arraystretch{1.3}
 \caption{附件 3 模态局部缺失专项测试集预测结果 (代表性样本精选展示)}
 \label{tab:att3_demo}
-\begin{tabularx}{\textwidth}{|c|c|c|c|c|X|}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|c|p{0.28\textwidth}|c|c|p{0.22\textwidth}|}
 \hline
 \textbf{样本序号} & \textbf{测试集文件识别名} & \textbf{缺失模式特征描述} & \textbf{预测极性} & \textbf{预测强度} & \textbf{门控权重分配 ($g_t, g_a, g_v$)} \\ \hline
 01 & sample\_01.pkl & 视觉模态后段缺失 (步长 30$\sim$50) & Positive & +1.2450 & 文本: 0.65, 语音: 0.28, 视觉: 0.07 \\ \hline
@@ -374,7 +379,8 @@ DTH-Champion 突破 SOTA 后的最终测试集混淆矩阵如表 \ref{tab:champi
 15 & sample\_15.pkl & 语音+视觉双模态大比例重度缺失 & Positive & +0.8920 & 文本: 0.88, 语音: 0.06, 视觉: 0.06 \\ \hline
 22 & sample\_22.pkl & 视觉完好，语音轻微抖动 & Negative & -0.9450 & 文本: 0.60, 语音: 0.15, 视觉: 0.25 \\ \hline
 30 & sample\_30.pkl & 全模态微弱噪声干扰 & Positive & +1.5120 & 文本: 0.58, 语音: 0.22, 视觉: 0.20 \\ \hline
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 从表 \ref{tab:att3_demo} 可以明显验证：当样本 04 语音发生中段缺失时，CAG 门控瞬间将语音权重压缩至仅 $0.05$，而将注意力平滑转移至文本（$0.72$）与视觉（$0.23$）；当样本 15 发生视听双缺失时，文本通道权重自适应提升至 $0.88$。这充分证明了模型在无人工干预下自主应对信道突发故障的智能调节特性。

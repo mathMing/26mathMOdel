@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.18)  25 SEP 2026 10:35
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.18)  25 SEP 2026 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2462,39 +2462,34 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removed on input line 118.
 
 
-Overfull \hbox (73.09595pt too wide) in alignment at lines 133--133
-[][][][][] 
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 140.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 138.
+(hyperref)                removed on input line 140.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 138.
+(hyperref)                removed on input line 140.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 138.
+(hyperref)                removed on input line 140.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 138.
+(hyperref)                removed on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 141.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 141.
+(hyperref)                removed on input line 143.
 
 [20]) [21] (sections/sec4_problem2.tex
 
@@ -2738,7 +2733,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: figures/fig8_validation_confusion_matrix.png Graphic file (type bmp)
 <figures/fig8_validation_confusion_matrix.png>
 
-Overfull \hbox (66.26065pt too wide) in alignment at lines 189--189
+Underfull \hbox (badness 10000) in alignment at lines 189--189
 [][][][][] 
  []
 
@@ -2824,191 +2819,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 241.
 
-
-Package tabularx Warning: X Columns too narrow (table too wide)
-(tabularx)                 on input line 262.
-
-
-Overfull \hbox (13.71233pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/b/n/10.53937 ($\OML/cmm/m/it/10.53937 N \OT1/cmr/m/n/10.53
-937 =
- []
-
-
-Overfull \hbox (8.77942pt too wide) in paragraph at lines 262--262
-\OT1/cmr/m/n/10.53937 727$\TU/TimesNewRoman(0)/b/n/10.53937 )| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 438
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 471
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 473
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 480
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 485
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/n/10.53937 490
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 727| 
- []
-
-
-Overfull \hbox (13.17421pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/m/it/10.53937 499.5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/it/10.53937 /
- []
-
-
-Overfull \hbox (5.5167pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/it/10.53937 727| 
- []
-
-
-Overfull \hbox (5.26968pt too wide) in paragraph at lines 262--262
-[]|\TU/TimesNewRoman(0)/b/n/10.53937 502
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/b/n/10.53937 /
- []
-
-
-Overfull \hbox (5.26949pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/b/n/10.53937 727
- []
-
-
-Overfull \hbox (31.46886pt too wide) in paragraph at lines 262--262
-\TU/TimesNewRoman(0)/m/n/10.53937 (\TU/TimesNewRoman(0)/b/n/10.53937 +0.34%\TU/
-TimesNewRoman(0)/m/n/10.53937 )| 
- []
-
-
-Overfull \hbox (32.78326pt too wide) in alignment at lines 262--262
-[][][][][][][] 
- []
-
+[29]
 File: figures/fig11_acc3_evolution_roadmap.png Graphic file (type bmp)
 <figures/fig11_acc3_evolution_roadmap.png>
 
-Underfull \hbox (badness 10000) in alignment at lines 300--300
+Underfull \hbox (badness 10000) in alignment at lines 302--302
 [][][][][][] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 303.
+(hyperref)                removed on input line 305.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 303.
+(hyperref)                removed on input line 305.
 
-
-Overfull \hbox (113.09349pt too wide) in alignment at lines 339--339
-[][][][][][][] 
- []
-
-[29] [30]
 File: figures/fig1_missing_modality_type.png Graphic file (type bmp)
 <figures/fig1_missing_modality_type.png>
 File: figures/fig2_missing_position.png Graphic file (type bmp)
 <figures/fig2_missing_position.png>
 File: figures/fig3_missing_duration_decay.png Graphic file (type bmp)
 <figures/fig3_missing_duration_decay.png>
- [31]
+[30] [31]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 357.
+(hyperref)                removed on input line 361.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 357.
+(hyperref)                removed on input line 361.
 
 
 Package fontspec Info: 
@@ -3026,7 +2870,7 @@ Package fontspec Info:
 (fontspec)             doesn't exist).
 
 LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
-(Font)              scaled to size 12.74046pt on input line 358.
+(Font)              scaled to size 12.74046pt on input line 362.
 
 Package fontspec Info: 
 (fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
@@ -3038,316 +2882,24 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/b/n/10.53937 门
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]|\TU/SimSun(1)/b/n/10.53937 门 控 权 重 分 配
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/b/n/10.53937 控
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]|\TU/SimSun(1)/m/n/10.53937 视 觉 模 态 后 段 缺 失 \TU/TimesNewRoman(0)/m/n/10.53937
+ (\TU/SimSun(1)/m/n/10.53937 步 长
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/b/n/10.53937 权
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]|\TU/SimSun(1)/m/n/10.53937 文 本 模 态 前 段 受 损 \TU/TimesNewRoman(0)/m/n/10.53937
+ (\TU/SimSun(1)/m/n/10.53937 步 长
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/b/n/10.53937 重
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/b/n/10.53937 分
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/b/n/10.53937 配
- []
-
-
-Overfull \hbox (28.7325pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/b/n/10.53937 ($\OML/cmm/m/it/10.53937 g[]; g[]; g[]$\TU/Ti
-mesNewRoman(0)/b/n/10.53937 )| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.65,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.28,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.07| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.72,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.05,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.23| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.22,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.45,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.33| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.88,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.06,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.06| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.60,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.15,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.25| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]|\TU/SimSun(1)/m/n/10.53937 文
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 本\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.58,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 语
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 音\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (5.23308pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.22,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 视
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\TU/SimSun(1)/m/n/10.53937 觉\TU/TimesNewRoman(0)/m/n/10.53937 :
- []
-
-
-Overfull \hbox (2.59824pt too wide) in paragraph at lines 377--377
-\TU/TimesNewRoman(0)/m/n/10.53937 0.20| 
- []
-
-
-LaTeX Warning: Float too large for page by 445.89076pt on input line 378.
-
-) [33] [34] (sections/sec5_problem3.tex
+) [32] (sections/sec5_problem3.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3408,7 +2960,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 33.
 
-[35
+[33
 
 ]
 
@@ -3433,7 +2985,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 60.
 
-[36]
+[34]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3496,7 +3048,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 84.
 
-[37]
+[35]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3573,7 +3125,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 127.
 
-[38]
+[36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3589,7 +3141,7 @@ Underfull \hbox (badness 3568) in paragraph at lines 168--168
 []|\TU/TimesNewRoman(0)/m/n/10.53937 0.96s - 2.41s, enthusiastically
  []
 
-) [39] [40] (sections/sec6_eval_generalization.tex
+) [37] [38] (sections/sec6_eval_generalization.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
@@ -3639,330 +3191,266 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
 (hyperref)                removed on input line 22.
+
+[39
+
+] [40]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 40.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 40.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\TU/SimSun(1)/b/n/10.53937 抗 噪 衰 减 率
+ []
 
 [41
 
-] [42]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 37.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 37.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 40.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 40.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 40.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 40.
-
-
-Package tabularx Warning: X Columns too narrow (table too wide)
-(tabularx)                 on input line 68.
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- []|\TU/TimesNewRoman(0)/m/n/10.53937 0.00%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 0.14%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 0.27%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 0.55%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 0.82%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 1.24%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 1.79%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 2.75%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 3.99%| 
- []
-
-
-Overfull \hbox (16.6839pt too wide) in paragraph at lines 68--68
- \TU/TimesNewRoman(0)/m/n/10.53937 5.23%| 
- []
-
-
-Overfull \hbox (36.16881pt too wide) in alignment at lines 68--68
-[][][][][][][][] 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 77.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 77.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 77.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 77.
-
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 87.
-[43
-
 ]
-Overfull \hbox (12.60403pt too wide) in alignment at lines 109--109
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 79.
+
+
+Overfull \hbox (12.60403pt too wide) in alignment at lines 111--111
 [][][][][] 
  []
 
-[44] [45]
+[42]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 116.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 116.
+(hyperref)                removed on input line 118.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 116.
+(hyperref)                removed on input line 118.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 116.
+(hyperref)                removed on input line 118.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 118.
+
+[43
+
+] [44]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 173.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 173.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 176.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 176.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 176.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 176.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 190.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 190.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 190.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 190.
+
+[45
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 202.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 214.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 214.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 214.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 0.60228pt
+(hyperref)                removed on input line 214.
 
 [46
 
-] [47]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 174.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 174.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 174.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 174.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 181.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 188.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 188.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 188.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 188.
-
-[48
-
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 197.
+(hyperref)                removed on input line 222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 197.
+(hyperref)                removed on input line 222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 200.
+(hyperref)                removed on input line 222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 200.
+(hyperref)                removed on input line 222.
 
+) [47
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 200.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 200.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 206.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 206.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 206.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 206.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 212.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 212.
-
-[49
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 220.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 220.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 220.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 0.60228pt
-(hyperref)                removed on input line 220.
-
-
-Overfull \hbox (2.74425pt too wide) in paragraph at lines 242--242
- \TU/TimesNewRoman(0)/b/n/10.53937 60FPS 
- []
-
-
-LaTeX Warning: Float too large for page by 89.54785pt on input line 243.
-
-) [50
-
-] [51] (main_compiled.bbl) [52
+] (main_compiled.bbl) [48
 
 ] (main_compiled.aux)
  ***********
@@ -3973,12 +3461,12 @@ Package rerunfilecheck Info: File `main_compiled.out' has not changed.
 (rerunfilecheck)             Checksum: 0BB271FD33167BC851575A69C26B9893;23139.
  ) 
 Here is how much of TeX's memory you used:
- 39079 strings out of 402560
- 878774 string characters out of 5445169
- 1294357 words of memory out of 5000000
- 67541 multiletter control sequences out of 15000+600000
+ 39075 strings out of 402560
+ 878650 string characters out of 5445169
+ 1280312 words of memory out of 5000000
+ 67537 multiletter control sequences out of 15000+600000
  643578 words of font info for 185 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  112i,20n,127p,535b,1363s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main_compiled.pdf (53 pages).
+Output written on main_compiled.pdf (49 pages).

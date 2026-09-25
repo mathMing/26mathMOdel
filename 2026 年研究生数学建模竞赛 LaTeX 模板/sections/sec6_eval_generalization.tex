@@ -50,7 +50,8 @@
 \renewcommand\arraystretch{1.2}
 \caption{不同加性高斯噪声强度 $\sigma$ 下各模型的三分类准确率 Acc-3 (\%) 敏感性对比表}
 \label{tab:noise_sensitivity}
-\begin{tabularx}{\textwidth}{c|cccccc>{\centering\arraybackslash}X}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{c|cccccc|p{0.13\textwidth}}
 \toprule
 \textbf{噪声强度 $\sigma$} & \textbf{Baseline} & \textbf{MulT\cite{tsai2019multimodal}} & \textbf{TFN\cite{zadeh2017tensor}} & \textbf{MISA\cite{hazarika2020misa}} & \textbf{DRM-Net (单模型)} & \textbf{DTH-Champion (本文)} & \textbf{抗噪衰减率 $\Delta$} \\
 \midrule
@@ -65,7 +66,8 @@
 0.18 & 46.90 & 54.72 & 55.61 & 57.65 & 61.98 & \textbf{65.06} & -3.99\% \\
 0.20 & 43.60 & 51.86 & 52.80 & 55.01 & 60.72 & \textbf{63.82} & -5.23\% \\
 \bottomrule
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 \textbf{敏感性规律分析}：
@@ -226,7 +228,8 @@ $\mathbf{2 \times 10^{-4}}$ & \textbf{0.08} & \textbf{256} & \textbf{多深度�
 \renewcommand\arraystretch{1.25}
 \caption{系统各子模块计算复杂度、内存占用与推理延迟基准评测表}
 \label{tab:edge_benchmark}
-\begin{tabularx}{\textwidth}{c|c|c|c>{\centering\arraybackslash}X}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{c|c|c|c|p{0.23\textwidth}}
 \toprule
 \textbf{处理流水线阶段} & \textbf{运算量 (FLOPs)} & \textbf{显存/内存峰值} & \textbf{单样本推理耗时} & \textbf{工程实施与优化建议} \\
 \midrule
@@ -239,7 +242,8 @@ $\mathbf{2 \times 10^{-4}}$ & \textbf{0.08} & \textbf{256} & \textbf{多深度�
 \rowcolor{color3}
 \textbf{全流程端到端实时总线} & \textbf{3.16 GFLOPs} & \textbf{330 MB} & \textbf{12.8 ms (78 FPS)} & \textbf{完全满足车载 60FPS 实时性要求} \\
 \bottomrule
-\end{tabularx}
+\end{tabular}%
+}
 \end{table}
 
 评测数据表明：整个推断流水线单样本总耗时仅需 \textbf{12.8 毫秒}，等效处理帧率高达 \textbf{78 FPS}，峰值内存占用仅 \textbf{330 MB}，充分证明本文算法兼具学术前沿先进性与工业边缘端超强落地实用性！
